@@ -13,6 +13,12 @@ class UserService{
         User.username = message
         return User.username
     }
+
+    static getAllUsernames(Users){
+       let usernames = Users.map(user => user.username)
+       return usernames
+
+    }
 }
 
 module.exports = UserService
