@@ -10,7 +10,4 @@ Proyectos desarrollados en la semana 4:
 |`Trello`|6|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
 |`Trello JS Fork`|7|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
 
-## *pase de abordar*
-### SEUS
-
 <img width="1247" alt="image" src="https://user-images.githubusercontent.com/17634377/165124418-8396bcb9-9845-494d-a362-7be3db99b748.png">
