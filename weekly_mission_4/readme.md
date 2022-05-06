@@ -1,8 +1,5 @@
 # Weekly Mission 4
-# Semana 4 
-
-<img width="1247" alt="image" src="https://user-images.githubusercontent.com/17634377/165124418-8396bcb9-9845-494d-a362-7be3db99b748.png">
-
+# **SEUS**
 Proyectos desarrollados en la semana 4:
 
 | Proyecto | Práctica | Link al repo |
@@ -12,3 +9,8 @@ Proyectos desarrollados en la semana 4:
 |`Code Challenge`|3, 4, 5|[Link al repo](https://github.com/seus23/EstudentsVPS)|
 |`Trello`|6|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
 |`Trello JS Fork`|7|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
+
+## *pase de abordar*
+### SEUS
+
+<img width="1247" alt="image" src="https://user-images.githubusercontent.com/17634377/165124418-8396bcb9-9845-494d-a362-7be3db99b748.png">
